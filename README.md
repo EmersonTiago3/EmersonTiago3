@@ -16,6 +16,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=emersontiago3.emersontiago3&"  />
 </div>
 
+###
+
+
 
 ###
 
@@ -23,7 +26,8 @@
 
 ###
 
-<p align="left">👋 Olá, eu Sou o Emerson Tiago<br><br>- 🔭 Atualmente, estou me aprofundando em **DevOps e Cloud Computing, com o objetivo de me tornar um arquiteto de cloud.<br>- 📚 Estou aprendendo Kubernetes, Terraform, AWS e Azure para construir soluções em nuvem escaláveis.<br>- ⚡ No meu tempo livre, gosto de explorar novas tecnologias, estudar práticas de arquitetura de sistemas e contribuir com projetos de código aberto.</p>
+<p align="left">👋 Olá, eu Sou o Emerson Tiago<br><br>- 🔭 Atualmente, estou me aprofundando em DevOps e Cloud Computing, com o objetivo de me tornar um arquiteto de cloud.<br><br>- 📚 Estou aprendendo Kubernetes, Terraform, AWS e Azure para construir soluções em nuvem escaláveis.<br><br>- ⚡ No meu tempo livre, gosto de explorar novas tecnologias, estudar práticas de arquitetura de sistemas e contribuir com projetos de código aberto.</p>
+
 
 ###
 
