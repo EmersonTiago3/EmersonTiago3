@@ -1,7 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Emerson Tiago</h1>
 <h3 align="center">Especialista em arquiteturas de nuvem e DevOps.</h3>
-<p align="left"> < width= "400"img src="https://komarev.com/ghpvc/?username=emersontiago3&label=Profile%20views&color=0e75b6&style=flat" alt="emersontiago3" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
