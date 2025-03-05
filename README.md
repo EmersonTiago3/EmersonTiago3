@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="189" src="https://www.canva.com/design/DAGg5bPWjv0/uXWSEF77VgWrNqTzHmpnWw/edit"  />
+  <img height="189" src="/photo/Banner para Linkedin Tecnologia em Preto.png"  />
 </div>
 
 ###
