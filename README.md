@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="189"  width="100%" src="/photo/Banner para Linkedin Tecnologia em Preto.png"  />
+  <img src="/photo/Banner para Linkedin Tecnologia em Preto.png" style="max-width: 100%; height: auto;" />
 </div>
+
 
 ###
 
